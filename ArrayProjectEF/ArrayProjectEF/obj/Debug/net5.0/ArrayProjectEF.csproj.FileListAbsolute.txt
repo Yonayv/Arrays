@@ -1,0 +1,16 @@
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\bin\Debug\net5.0\ArrayProjectEF.exe
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\bin\Debug\net5.0\ArrayProjectEF.deps.json
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\bin\Debug\net5.0\ArrayProjectEF.runtimeconfig.json
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\bin\Debug\net5.0\ArrayProjectEF.runtimeconfig.dev.json
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\bin\Debug\net5.0\ArrayProjectEF.dll
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\bin\Debug\net5.0\ref\ArrayProjectEF.dll
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\bin\Debug\net5.0\ArrayProjectEF.pdb
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\obj\Debug\net5.0\ArrayProjectEF.csproj.AssemblyReference.cache
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\obj\Debug\net5.0\ArrayProjectEF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\obj\Debug\net5.0\ArrayProjectEF.AssemblyInfoInputs.cache
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\obj\Debug\net5.0\ArrayProjectEF.AssemblyInfo.cs
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\obj\Debug\net5.0\ArrayProjectEF.csproj.CoreCompileInputs.cache
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\obj\Debug\net5.0\ArrayProjectEF.dll
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\obj\Debug\net5.0\ref\ArrayProjectEF.dll
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\obj\Debug\net5.0\ArrayProjectEF.pdb
+C:\Users\Emily.fixico\source\repos\ArrayProjectEF\ArrayProjectEF\obj\Debug\net5.0\ArrayProjectEF.genruntimeconfig.cache
